@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularChartView">
+        <attr name="circleWidth" format="dimension"/>
+        <attr name="circleFinishColor" format="color"/>
+        <attr name="circleUnFinishColor" format="color"/>
+        <attr name="finishSchedule" format="float"/>
+        <attr name="finishScheduleText" format="string"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="textColor" format="color"/>
+    </declare-styleable>
+</resources>
